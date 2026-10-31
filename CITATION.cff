@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Turkish ED Synthetic Cohort"
+type: dataset
+authors:
+  - family-names: "Danış"
+    given-names: "Faruk"
+    orcid: "https://orcid.org/0000-0001-8722-5402"
+    affiliation: "Bolu Abant İzzet Baysal University"
+license: CC-BY-NC-4.0
+date-released: 2026-10-31
+url: "https://huggingface.co/datasets/farukdanis/turkish-ed-synthetic-cohort"
+repository-code: "https://github.com/farukdanis/turkish-ed-synthetic-cohort"
+keywords: [synthetic data, emergency medicine, triage, medical education, tabular]
